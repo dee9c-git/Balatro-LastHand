@@ -6,12 +6,14 @@
 </div>
 
 ## Features
-- Provides simple text edits on the Play/Discard buttons for the scernarios:
+- Provides simple text edits on the Play/Discard buttons for the scenarios:
     - First Hand
     - Last Hand
     - First Discard
 - Supports just en-US for now.
 - Made for Vanilla Balatro
+
+*If you installed the mod and you have an unfinished round, you may have to wait till the next round for the mod to sync.
 
 ## Install
 1. Install the [Balatro Mod Manager](https://github.com/skyline69/balatro-mod-manager)
