@@ -1,0 +1,12 @@
+{
+  "id": "LastHand",
+  "name": "LastHand",
+  "author": ["Dee9c"],
+  "description": "Shows that this will be your last hand (+ some others features)",
+  "dependencies": [
+   "Steamodded (>=1.*~)"
+  ],
+  "prefix": "LastHand",
+  "main_file": "main.lua",
+  "version": "0.1.0"
+}
